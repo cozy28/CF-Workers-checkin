@@ -1,4 +1,4 @@
-let domain = "这里填机场域名";
+let domain = "69yun69.com";
 let user = "这里填邮箱";
 let pass = "这里填密码";
 let 签到结果;
